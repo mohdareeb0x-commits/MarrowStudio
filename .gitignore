@@ -1,0 +1,70 @@
+# Dependencies
+node_modules/
+
+# Production build output
+.next/
+.out/
+
+# Environment files
+.env.local
+.env.*.local
+.env
+
+# Local dev files
+*. local
+.DS_Store
+*.seeloginfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Lock files (optional - uncomment if not using git to track)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Build cache
+.cache/
+.parcel-cache/
+
+# Sentry release monitoring hooks
+*.ts.buildmeta
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache

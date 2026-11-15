@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect width="16" height="16" fill="#F4F1EA"/>
+  <path d="M4 4L12 4L12 12L4 12Z" fill="#181716"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="400" fill="#F4F1EA">
+    M
+  </text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#F4F1EA" rx="0"/>
+  <path d="M64 64 L192 64 L192 192 L64 192 Z" fill="#181716"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Instrument Serif, Georgia, serif" font-size="86" font-weight="400" fill="#F4F1EA" letter-spacing="0.1em">
+    M
+  </text>
+</svg>
