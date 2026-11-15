@@ -49,8 +49,8 @@ export const studioInfo: StudioInfo = {
   description: "Marrow is an independent 3-person brand and web design practice based in India. We strip away superficial noise to reveal the skeletal essence of ambitious boutique brands and early-stage founders globally.",
   location: "Goa & Bengaluru, India",
   founded: "2022",
-  email: "hello@marrowstudio.design",
-  phone: "+91 98765 43210",
+  email: "mohdareeb0x@gmail.com",
+  phone: "+91 7017470667",
   address: "Studio 04, Latin Quarter, Panjim, Goa 403001",
   availability: "Accepting 2 select projects for Q2 2025",
   socials: [
