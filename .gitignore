@@ -52,7 +52,7 @@ coverage/
 *.swo
 
 # Lock files (optional - uncomment if not using git to track)
-# package-lock.json
+package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
 
@@ -68,3 +68,5 @@ coverage/
 
 # Optional eslint cache
 .eslintcache
+
+next-env.d.ts
